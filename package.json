@@ -1,8 +1,8 @@
 {
-  "name": "eth-marketplace",
+  "name": "staker",
   "homepage": "https://guille-block.github.io/staker/",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
+  "description": "Staker",
   "dependencies": {
     "@openzeppelin/contracts": "^4.1.0",
     "apexcharts": "^3.26.3",
