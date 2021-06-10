@@ -1,1 +1,124 @@
-/* Styles go here */
+body {
+    background: #1B213B;
+    color: #777;
+    font-family: Montserrat, Arial, sans-serif;
+  }
+
+nav {
+    width: 85%;
+    margin: auto;
+    justify-content: space-between;
+}
+  
+  .body-bg {
+    background: #F3F4FA !important;
+  }
+  
+  h1, h2, h3, h4, h5, h6, strong {
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  body {
+    /*background: linear-gradient(45deg,#3a3a60,#5f5f8e);
+    min-height: 100vh;*/
+  }
+  
+  .content-area {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  
+  .box {
+    background-color: #262D47;
+    border-radius: 4px;
+    padding: 2.5vw;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+  }
+
+  .box-amounts {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .shadow {
+    box-shadow: 0px 1px 15px 1px rgba(69, 65, 78, 0.08);
+  }
+  .sparkboxes .box {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-shadow: 0 1px 1px 1px #666;
+    box-shadow: 0px 1px 15px 1px rgba(69, 65, 78, 0.08);
+    position: relative;
+    border-radius: 5px;
+  }
+  
+  .sparkboxes .box .details {
+    position: absolute;
+    color: #fff;
+    transform: scale(0.7) translate(-22px, 20px);
+  }
+  .sparkboxes strong {
+    position: relative;
+    z-index: 3;
+    top: -8px;
+    color: #fff;
+  }
+  
+  
+  .sparkboxes .box1 {
+    background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%);
+  }
+  
+  .sparkboxes .box2 {
+    background-image: linear-gradient( 135deg, #2AFADF 10%, #4C83FF 100%);
+  }
+  
+  .sparkboxes .box3 {
+    background-image: linear-gradient( 135deg, #FFD3A5 10%, #FD6585 100%);
+  }
+  
+  .sparkboxes .box4 {
+    background-image: linear-gradient( 135deg, #EE9AE5 10%, #5961F9 100%);
+  }
+
+  .flex-btn {
+    width: 65%;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .btn-nav {
+    color: #fff;
+    background-color: #1B213B;
+    border-color: #1B213B;
+  }
+
+  .flex-padding {
+    padding-top: 1vw;
+    margin: auto;
+  }
+  
+  .graph-size {
+    width: 85%;
+    margin: auto;
+  }
+
+  .apexcharts-yaxis-label, .apexcharts-xaxis-label{
+      fill: lightblue;
+  }
+
+
+  .text-h{
+    font-size: 1.8rem;
+    margin-top: 0.5em
+  }
+
+  .box-rem{
+    padding: 3.5vw!important;
+  }
