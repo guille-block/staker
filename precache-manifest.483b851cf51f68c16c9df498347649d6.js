@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4b3dd47ce43e141f2bd7",
+    "revision": "70a43c92d1681499339a",
     "url": "/staker/static/css/main.68447cda.chunk.css"
   },
   {
-    "revision": "4b3dd47ce43e141f2bd7",
-    "url": "/staker/static/js/main.4b3dd47c.chunk.js"
+    "revision": "70a43c92d1681499339a",
+    "url": "/staker/static/js/main.70a43c92.chunk.js"
   },
   {
     "revision": "b5511b077172e7cf576a",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/staker/static/js/runtime~main.d10c5435.js"
   },
   {
-    "revision": "8dd66f71c32d488de50a39ee2dea153d",
+    "revision": "e036014daafba8b637215d9571321abd",
     "url": "/staker/index.html"
   }
 ];
