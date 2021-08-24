@@ -3,16 +3,18 @@
 
 ## Objective:
 
-The idea within these project lands in the devlopment of an ERC20 Token BGC. A second smart contract can be found that will have all the token supply of BGC and will distribute 
-it to wallet address that stake ETH in it. The object is to apply simple DeFi concepts and while using a decentralized application.
+The idea within this project lands in the development of an ERC20 Token BGC with its own tokeneconomics. A second smart contract can be found that will have all the token supply of BGC and will distribute 
+it as interests to wallet addresses that stake ETH in it. The object is to apply simple DeFi concepts while using a decentralized application.
 
 ## Instructions:
 
-The app can be find at this URL:
+The app can be found at this URL:
 
 <link>https://guille-block.github.io/staker/</link>
 
-The contracts have been deployed to the kovan test network so in order to stake ETH you should make sure your wallet has some balance before interacting with the dapp.
+</br>
+
+The contracts have been deployed to the kovan test network so in order to stake ETH you should make sure your wallet has some balance beforehand.
 
 ## Considerations
 
